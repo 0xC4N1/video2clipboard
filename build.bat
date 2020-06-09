@@ -1,0 +1,1 @@
+tar -a -c -f video2clipboard.zip *.js _locales manifest.json

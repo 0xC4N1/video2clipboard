@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "video2clipboard",
+    "description": "Copy a video link at the current time code to clipboard.",
+    "version": "0.0.1",
+    "homepage_url": "https://github.com/0xC4N1/video2clipboard",
+    "default_locale": "en",
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "clipboardWrite",
+        "menus"
+    ]
+}

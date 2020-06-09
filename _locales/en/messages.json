@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "video2clipboard",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Copy a video link at the current time code to clipboard.",
+    "description": "Description of the extension."
+  },
+
+  "copyMenuTitle": {
+    "message": "Copy video address with timestamp",
+    "description": "Title of context menu entry."
+  }
+}

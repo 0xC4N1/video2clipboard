@@ -1,0 +1,11 @@
+{
+  "extensionDescription": {
+    "message": "Video Adresse an aktueller Position in Zwischenablage kopieren",
+    "description": "Description of the extension."
+  },
+
+  "copyMenuTitle": {
+    "message": "Video Adresse mit Zeitstempel kopieren",
+    "description": "Title of context menu entry."
+  }
+}
