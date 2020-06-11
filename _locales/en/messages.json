@@ -5,7 +5,7 @@
   },
 
   "extensionDescription": {
-    "message": "Copy a video link at the current time code to clipboard.",
+    "message": "Copy a video link at the current time code to clipboard via context menu.",
     "description": "Description of the extension."
   },
 

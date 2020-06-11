@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
-    "message": "Video Adresse an aktueller Position in Zwischenablage kopieren",
+    "message": "Fügt Videoelementen einen Kontextmenüeintrag hinzu mit dem Video-Adressen mit aktueller Abspielposition in die Zwischenablage kopiert werden können.",
     "description": "Description of the extension."
   },
 
   "copyMenuTitle": {
-    "message": "Video Adresse mit Zeitstempel kopieren",
+    "message": "Video-Adresse mit Zeitstempel kopieren",
     "description": "Title of context menu entry."
   }
 }
