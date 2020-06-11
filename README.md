@@ -1,4 +1,4 @@
-# video2clipboard
+# video2clipboard [![Get the add-on](docs/get-the-addon-badge.png)](https://addons.mozilla.org/firefox/addon/video2clipboard/)
 
 This extension adds a context menu entry to videos for easy access 
 to video address with time code.
